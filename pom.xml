@@ -15,4 +15,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  			<configuration>
+				<archive>
+					<manifest>
+						<mainClass>com.roufid.tutorials.AppTest</mainClass>
+					</manifest>
+				</archive>
+			</configuration>
 </project>
